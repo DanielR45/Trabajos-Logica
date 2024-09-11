@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+14
+ tel, tab, aur
+6
+3
+6
+ teld 
+9
+tel * 0.1
+5
+tabd 
+9
+tab * 0.1
+4
+aurd
+10
+aur * 0.05
+6
+1
+6
+total 
+42
+(tel - teld) + (tab - tabd) + (aur - aurd)
+4
+1
+5
+total
+1
